@@ -38,7 +38,7 @@ img {
   height: auto;
 }
 address {
-   /* или через класс .footer-address */
+  /* или через класс .footer-address */
   font-style: normal;
 }
 button {
@@ -47,7 +47,8 @@ button {
   border: none;
   border-radius: 4px;
 }
-ul,ol {
+ul,
+ol {
   list-style: none;
   padding-left: 0;
   margin: 0;
@@ -66,6 +67,18 @@ a {
   padding: 0 15px;
 }
 
+/*----------- HEADER ------------*/
+.header {
+}
+.header-logo {
+}
+.header-nav {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
 
-
-
+/*------- HERO --------*/
