@@ -69,12 +69,21 @@ a {
 
 /*----------- HEADER ------------*/
 .header {
+
+}
+.header .container{
+  display: flex;
+  align-items: center;
 }
 .header-logo {
 }
 .header-nav {
+  margin-left: auto;
 }
 .header-list {
+  display: flex;
+    align-items: center;
+    gap: 30px;
 }
 .header-item {
 }
