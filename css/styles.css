@@ -1,0 +1,24 @@
+:root {
+  --main-text-color: #212121;
+  --secondary-txt-cl: #ffffff;
+  --ouwer-text-color: #757575;
+  --acent-color: #2196f3;
+  --contener-color: #eeeeee;
+  --logo-color-text: #000000;
+  --buttons-port-color: #f5f4fa;
+  --footer-text-color: rgba(255, 255, 255, 0.6);
+  --background-footer-color: #2f303a;
+  --background-section: #e5e5e5;
+  --line-color: #ececec;
+  --background-color: #ffffff;
+  --icon-color: #afb1b8;
+  --main-font: Roboto, sans-serif;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--main-text-color);
+  font-family: var(--main-font);
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
